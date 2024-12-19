@@ -1,0 +1,15 @@
+{
+  "name": "video_player",
+  "version": "1.0.0",
+  "description": "video_player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript",
+    "backend"
+  ],
+  "author": "Arif",
+  "license": "ISC"
+}
